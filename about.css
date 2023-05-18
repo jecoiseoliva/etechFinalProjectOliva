@@ -42,7 +42,20 @@
 p{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
-  margin: 20px;
+  margin: 75px;
   text-align: left;
+  color: white;
   
+}
+
+body{
+  background-color: rgb(2, 2, 51);
+}
+
+.future{
+  align-items: center;
+}
+
+h1{
+  color: white;
 }
