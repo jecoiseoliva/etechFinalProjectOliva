@@ -44,16 +44,7 @@
     body{
         background-color: rgb(2, 2, 44);
     }
-
-    .card-title{
-        color: whitesmoke;
-        font-size: 30px;
-        font-family: Arial, Helvetica, sans-serif;
-        
-    }
-
    
-    
 
     .column {
         float: left;
@@ -63,7 +54,7 @@
         height: auto;
         padding-left: 100px;
         display: block;
-        padding right: 100px;
+        
       }
 
     .row{
@@ -78,5 +69,5 @@
         padding-left: 50px;
         display: block;
         margin: 45px;
-        
+
     }
