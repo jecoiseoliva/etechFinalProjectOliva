@@ -52,9 +52,31 @@
         
     }
 
-    .card-text{
-         color: white;
-         font size: 20px;
-         font-family: Arial;
+   
+    
 
+    .column {
+        float: left;
+        width: 25%;
+        padding: 20px;
+        max-width: 50%;
+        height: auto;
+        padding-left: 100px;
+        display: block;
+        padding right: 100px;
+      }
+
+    .row{
+        align-items: center;
+        
+    }
+    
+    p{
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        padding-left: 50px;
+        display: block;
+        margin: 45px;
+        
     }
